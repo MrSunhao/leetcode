@@ -1,5 +1,6 @@
 # ignore .idea
 .idea/
+src/target
 # Compiled class file
 *.class
 
