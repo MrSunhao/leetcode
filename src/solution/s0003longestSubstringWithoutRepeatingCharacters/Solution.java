@@ -8,7 +8,7 @@ public class Solution {
     /***
      * @author sunth
      * @date 2019/7/15 0:05
-     * @Description
+     * @Description 解法2
      */
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
